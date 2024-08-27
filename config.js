@@ -12,22 +12,22 @@ global.antitags = false;
 
 //auto functioner
 global.autoTyping = false;                //make true to enable auto typing
-global.autoRecord = true;                //make true to enable auto recording
-global.groupevent = true;                //This is the new variable for controlling group event handling.
-global.statusseen = false;                 //make true to view statuses 
+global.autoRecord = false;                //make true to enable auto recording
+global.groupevent = false;                //This is the new variable for controlling group event handling.
+global.statusseen = true;                 //make true to view statuses 
 global.ANTI_BOT = false;
 global.PM_BLOCKER = false;
 global.CHATBOT = false;
 
 
-global.Owner = ["2348074439626"]; //like 2347080968564 
-global.OwnerName =  "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
-global.BotName = "♱MAKINO-MD-V2♱♡⃤";
-global.packname = "♱MAKINO-MD-V2♱♡⃤";                             //Do not change.
-global.author = "TAIRA MAKINO";                               //Do not change.
-global.BotSourceCode = "https://github.com/anonphoenix007/MAKINO-MD-V2"; //Do not change.
-global.SupportGroupLink = "https://chat.whatsapp.com/KEg0G3UUs1G39ikdyfF5Pm "; 
-global.SupportGroupLink = "https://chat.whatsapp.com/KEg0G3UUs1G39ikdyfF5Pm"; //Do not change!
+global.Owner = ["919922281834"]; //like 2347080968564 
+global.OwnerName =  "SanDy";
+global.BotName = "‼️𝘕 𝘰 _ 𝘔 𝘦 𝘳 𝘊 𝘺‼️";
+global.packname = "‼️𝘕 𝘰 _ 𝘔 𝘦 𝘳 𝘊 𝘺‼️";                             //Do not change.
+global.author = "SanDy";                               //Do not change.
+global.BotSourceCode = "https://githb.com/anonphoenix007/MAKINO-MD-V2"; //Do not change.
+global.SupportGroupLink = "https://chat.whatsapp.com/KEg03UUs1G39ikdyfF5Pm "; 
+global.SupportGroupLink = "https://chat.whatsapp.com/KEg0GUUs1G39ikdyfF5Pm"; //Do not change!
 global.menutype = "v3"
 
 global.prefa = ['','!','.',','] 
